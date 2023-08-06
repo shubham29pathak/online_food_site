@@ -125,7 +125,7 @@ label.color-6 {
 
 .for-color-1:checked ~ .img-wrap.chair-1 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.chair-1 {
     background-image: url("./images/burger.png");
@@ -135,35 +135,35 @@ label.color-6 {
 }
 .for-color-2:checked ~ .img-wrap.chair-2 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.chair-3 {
   background-image: url("./images/chowmine.png");
 }
 .for-color-3:checked ~ .img-wrap.chair-3 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.chair-4 {
   background-image: url("./images/fried%20rice.png");
 }
 .for-color-4:checked ~ .img-wrap.chair-4 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.chair-5 {
   background-image: url("./images/momos.png");
 }
 .for-color-5:checked ~ .img-wrap.chair-5 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.chair-6 {
   background-image: url("./images/pizza.png");
 }
 .for-color-6:checked ~ .img-wrap.chair-6 {
   opacity: 1;
-/*  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;*/
+  animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 @keyframes shake {
   10%,
